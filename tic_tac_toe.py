@@ -1,7 +1,7 @@
 '''
 Pyhon3.4
 Tic_Tac_Toe
-By IJ_Absolucrem
+By scriptij/Absolutorcinus
 '''
 
 import itertools
