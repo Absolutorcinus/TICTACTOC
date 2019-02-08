@@ -1,5 +1,10 @@
-import itertools
+'''
+Pyhon3.4
+Tic_Tac_Toe
+By IJ_Absolucrem
+'''
 
+import itertools
 # **********************************************************
 #  to check if the values in matrix are equal             *
 # **********************************************************
@@ -95,10 +100,8 @@ def game(m):
         print("PLAYER ", check_vertical_win(m)[0], "WINS!!!!")
         stat= True
 
-
     return stat
 #********************************************************
-
 play=True
 players= [1,2]
 
